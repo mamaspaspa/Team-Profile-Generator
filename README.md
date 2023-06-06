@@ -1,4 +1,4 @@
-# Daily Planner App
+# Team Profile Generator
 
 ## Overview
  
