@@ -1,0 +1,19 @@
+header {
+    background-color: lightcoral;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+header h1 {
+    font-size: 18px;
+}
+
+.identity {
+    background-color: lightseagreen;
+    color: white;
+}
+
+.col {
+    margin: 15px;
+}
