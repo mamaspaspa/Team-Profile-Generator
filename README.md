@@ -12,7 +12,7 @@ The user needs to clone this repository from GitHub and also download Node. This
 
 ## Credits
 
-Referenced: The in-class mini challenges from the past week and assistance from a friend of mine.
+Referenced: The in-class mini challenges from the past week, Stack Overflow and assistance from a friend of mine.
 
 ## License
 
